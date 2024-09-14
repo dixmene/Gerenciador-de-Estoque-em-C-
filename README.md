@@ -1,4 +1,4 @@
-**Gerenciador de Estoque em C++**
+### Gerenciador de Estoque em C++
 
 ### Objetivo do Projeto
 
